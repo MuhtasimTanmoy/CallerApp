@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Caller App</string>
+    <string name="mbl_no">Enter Mobile Number</string>
+    <string name="content">Content</string>
+    <string name="send">Send SMS</string>
+</resources>
